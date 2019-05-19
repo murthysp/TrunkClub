@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="trunckclub.test.SearchTest" duration-ms="19727" started-at="2019-05-19T17:27:12Z" finished-at="2019-05-19T17:27:31Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="19727" started-at="2019-05-19T17:27:12Z" finished-at="2019-05-19T17:27:31Z">
+      <class name="trunckclub.test.SearchTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:trunckclub.test.SearchTest@327471b5]" name="setup" is-config="true" duration-ms="15961" started-at="2019-05-19T12:27:12Z" finished-at="2019-05-19T12:27:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_Home_Page_Appear_Correct()[pri:0, instance:trunckclub.test.SearchTest@327471b5]" name="test_Home_Page_Appear_Correct" duration-ms="1134" started-at="2019-05-19T12:27:28Z" finished-at="2019-05-19T12:27:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Home_Page_Appear_Correct -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:trunckclub.test.SearchTest@327471b5]" name="closeDriver" is-config="true" duration-ms="2621" started-at="2019-05-19T12:27:29Z" finished-at="2019-05-19T12:27:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- trunckclub.test.SearchTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- trunckclub.test.SearchTest -->
+</testng-results>
